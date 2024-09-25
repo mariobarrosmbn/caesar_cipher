@@ -1,1 +1,1 @@
-this is a Ruby implementation of the Caesar Cipher for The Odin Project
+this is a simple implementation of the Caesar Cipher in Ruby for The Odin Project

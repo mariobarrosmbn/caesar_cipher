@@ -18,4 +18,5 @@ def caesar_cipher(string, shift)
   puts encrypted_string
 end
 
-caesar_cipher('mario', 15)
+puts caesar_cipher('hate to say I told you so', 2)
+puts caesar_cipher('MARIO', 1)
